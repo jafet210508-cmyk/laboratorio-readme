@@ -23,3 +23,10 @@ npm install
 Para ejecutar el proyecto en entorno local:
 ```bash
 npm start
+
+## Estado de funcionalidades
+ 
+| Función  | Estado      |
+|----------|-------------|
+| Login    | Listo       |
+| Reportes | En progreso |
