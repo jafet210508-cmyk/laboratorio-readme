@@ -35,4 +35,15 @@ npm start
  
 - [x] Diseño de la base de datos
 - [ ] Pruebas unitarias
-```[cite: 1]
+- [x] Diseño de la base de datos
+- [ ] Pruebas unitarias
+
+![Estado](https://img.shields.io/badge/build-passing-brightgreen)
+
+## Arquitectura
+
+mermaid
+graph LR
+    A[Usuario] --> B[Frontend]
+    B --> C[API]
+    C --> D[(Base de datos)]
