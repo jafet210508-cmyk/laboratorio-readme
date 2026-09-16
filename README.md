@@ -7,7 +7,7 @@ Proyecto de práctica para aprender Markdown avanzado en GitHub.
 - [Descripción](#descripción)
 - [Instalación](#instalación)
 - [Uso](#uso)
-- [Estado del Proyecto](#estado-del-proyecto)
+- [Estado de funcionalidades](#estado-de-funcionalidades)
 - [Arquitectura](#arquitectura)
 - [Contribuidores](#contribuidores)
 
