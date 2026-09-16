@@ -15,13 +15,13 @@ Proyecto de práctica para aprender Markdown avanzado en GitHub.
 Este repositorio documenta paso a paso mi aprendizaje de Markdown: tablas, listas de tareas, badges y diagramas.
 
 ## Instalación
-```bash
+bash
 git clone https://github.com/jafet210508-cmyk/laboratorio-readme.git
 cd laboratorio-readme
 npm install
 ## Uso
 Para ejecutar el proyecto en entorno local:
-```bash
+bash
 npm start
 
 ## Estado de funcionalidades
