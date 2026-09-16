@@ -30,3 +30,9 @@ npm start
 |----------|-------------|
 | Login    | Listo       |
 | Reportes | En progreso |
+
+## Pendientes
+ 
+- [x] Diseño de la base de datos
+- [ ] Pruebas unitarias
+```[cite: 1]
